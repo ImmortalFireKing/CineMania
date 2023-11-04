@@ -15,3 +15,7 @@ Key Features of CineMania:
 5.) Ticket Retrieval with QR Code and Confirmation Email: Upon booking tickets, users receive a confirmation email that includes the purchased ticket's QR code. This email ensures easy access to the ticket through the app, email, or website, providing a convenient and versatile ticket retrieval experience.
 
 CineMania's infrastructure leverages modern technologies, offering a streamlined and responsive experience for moviegoers. Whether using a computer, iPhone, iPad, or Android device, CineMania ensures a seamless and user-friendly movie ticket booking process, complete with theater location information, QR code ticket retrieval, and a confirmation email.
+
+![CineMania Product Development](https://github.com/ImmortalFireKing/CineMania/assets/149437730/63e6ae21-e5c4-482d-adaf-dbc778b9fd24)
+![CineMania1](https://github.com/ImmortalFireKing/CineMania/assets/149437730/757fc13d-c396-47c7-8e43-ca611fe098e3)
+![CineMania2](https://github.com/ImmortalFireKing/CineMania/assets/149437730/bb73d6f8-7434-4e30-9445-8683ff8e3c3d)
